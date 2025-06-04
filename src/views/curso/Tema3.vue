@@ -77,7 +77,7 @@
     .titulo-figura.mb-4(data-aos="fade-up")
       h5 Figura 2. 
       span Cualidades deseables en las herramientas tecnológicas en entornos educativos diversos.
-    .bg-color-2.p-4.j1(data-aos="fade-left")
+    .bg-color-2.p-4.j1.mb-5(data-aos="fade-left")
       .row.text-center
         .col-lg-4.mb-3
           .bg-color-8.p-3.h-100.j1

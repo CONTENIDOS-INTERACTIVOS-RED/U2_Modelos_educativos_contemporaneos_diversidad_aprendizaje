@@ -57,7 +57,7 @@
     .titulo-figura.mb-4(data-aos="fade-up")
       h5 Figura 1. 
       span El DUA
-    .bg-color-2.p-4.j1(data-aos="fade-left")
+    .bg-color-2.p-4.j1.mb-5(data-aos="fade-left")
       figure
         img.img-a.img-t(src='@/assets/curso/temas/27.svg', alt='')
 
