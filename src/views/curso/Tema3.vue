@@ -139,22 +139,22 @@
                   h5.mb-2.text-center a. Objetivos
                   p.mb-0 Claros, alcanzables y flexibles. Deben considerar los diferentes niveles de desempeño y las metas personales de los estudiantes.
               .custom-image-card-2.h-100.br-1
-                img.custom-image-card__image(src="@/assets/curso/temas/36.png" alt="")
+                img.custom-image-card__image(src="@/assets/curso/temas/37.png" alt="")
                 .custom-image-card__text.p-4
                   h5.mb-2.text-center b. Evaluación diagnóstica 
                   p.mb-0 Permite conocer el contexto, identificar barreras, reconocer las particularidades de los estudiantes y adaptar la propuesta educativa.
               .custom-image-card-2.h-100.br-1
-                img.custom-image-card__image(src="@/assets/curso/temas/36.png" alt="")
+                img.custom-image-card__image(src="@/assets/curso/temas/38.png" alt="")
                 .custom-image-card__text.p-4
                   h5.mb-2.text-center c. Métodos y materiales
                   p.mb-0 Variedad y accesibilidad son claves. Deben seleccionarse en función de las múltiples formas de representación, implicación y expresión, fomentando la participación activa. 
               .custom-image-card-2.h-100.br-1
-                img.custom-image-card__image(src="@/assets/curso/temas/36.png" alt="")
+                img.custom-image-card__image(src="@/assets/curso/temas/39.png" alt="")
                 .custom-image-card__text.p-4
                   h5.mb-2.text-center d. Implementación
                   p.mb-0 Consiste en ejecutar las estrategias previamente diseñadas, garantizando la mediación pedagógica y el acompañamiento constante.
               .custom-image-card-2.h-100.br-1
-                img.custom-image-card__image(src="@/assets/curso/temas/36.png" alt="")
+                img.custom-image-card__image(src="@/assets/curso/temas/40.png" alt="")
                 .custom-image-card__text.p-4
                   h5.mb-2.text-center e. Evaluación integral 
                   p.mb-0 Comprende la valoración de los aprendizajes, el diseño, los métodos y los materiales. Puede incluir una metaevaluación para analizar el proceso y su impacto. 
@@ -190,7 +190,7 @@
               a(href="https://ayuda.webclass.cl/articulo/como-implementar-el-dua-en-el-aula/" target="_blank" rel="noopener noreferrer") WebClass. Educational Technologies. (s.f.). Guía para implementar el DUA durante la planificación. 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.revistadeeducacion.cl/aplicar-diseno-universal-aprendizaje/" target="_blank" rel="noopener noreferrer") Revista de educación. (s.f.) ¿Cómo aplicar el diseño universal para el aprendizaje? Ministerio de Educación de Chile. 
+              a(href="https://www.revistadeeducacion.cl/aplicar-diseno-universal-aprendizaje/cación educativa. El diseño de clases, actividades, rutas de aprendizaje y otras estructuras debe contemplar los siguientes componentes fundamentale" target="_blank" rel="noopener noreferrer") Revista de educación. (s.f.) ¿Cómo aplicar el diseño universal para el aprendizaje? Ministerio de Educación de Chile. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
